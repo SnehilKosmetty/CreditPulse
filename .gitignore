@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Node and frontend
+node_modules/
+dist/
+.angular/
+coverage/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+appsettings.Development.local.json
+
+# Test results
+TestResults/
+playwright-report/
+
+# SonarQube
+.sonarqube/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
