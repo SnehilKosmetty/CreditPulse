@@ -1,2 +1,10 @@
 <Solution>
+  <Folder Name="/services/" />
+  <Folder Name="/services/credit-service/" />
+  <Folder Name="/services/credit-service/src/">
+    <Project Path="services/credit-service/src/CreditPulse.Credit.Domain/CreditPulse.Credit.Domain.csproj" />
+  </Folder>
+  <Folder Name="/services/credit-service/tests/">
+    <Project Path="services/credit-service/tests/CreditPulse.Credit.UnitTests/CreditPulse.Credit.UnitTests.csproj" />
+  </Folder>
 </Solution>
