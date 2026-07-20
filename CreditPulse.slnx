@@ -4,6 +4,7 @@
   <Folder Name="/services/credit-service/src/">
     <Project Path="services/credit-service/src/CreditPulse.Credit.Application/CreditPulse.Credit.Application.csproj" />
     <Project Path="services/credit-service/src/CreditPulse.Credit.Domain/CreditPulse.Credit.Domain.csproj" />
+    <Project Path="services/credit-service/src/CreditPulse.Credit.Infrastructure/CreditPulse.Credit.Infrastructure.csproj" />
   </Folder>
   <Folder Name="/services/credit-service/tests/">
     <Project Path="services/credit-service/tests/CreditPulse.Credit.UnitTests/CreditPulse.Credit.UnitTests.csproj" />
